@@ -1,0 +1,6 @@
+{
+  "name": "task-03-cart",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js"
+}
