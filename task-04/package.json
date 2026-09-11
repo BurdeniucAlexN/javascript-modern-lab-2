@@ -1,0 +1,6 @@
+{
+  "name": "task-04-employees",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js"
+}
